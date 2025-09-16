@@ -6,6 +6,7 @@
 
 int main() {
   
-  printf("Desafio Super trunfo");
+  printf("Desafio Super trunfo\n");
+  printf("Novo commit\n");
   
 } 
